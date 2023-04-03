@@ -1,0 +1,58 @@
+.recent-most {
+    margin-top: 50px;
+
+    margin-bottom: 30px;
+
+    .recent-heading {
+        font-family: Syne;
+        font-size: 30px;
+        font-weight: 700;
+        color: #000;
+    }
+    .recent-item {
+        margin-top: 30px;
+        display: flex;
+    }
+    .recent-item-text {
+        margin-left: 30px;
+    }
+    .recent-title {
+        font-family: 'Syne', Sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+    .text {
+        font-family: 'Manrope', Sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 22px;
+    }
+    .under-title-recent {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+        font-size: 14px;
+        color: #797171;
+        img {
+            border-radius: 50%;
+        }
+        .author {
+            font-size: 16px;
+            font-weight: 600;
+            color: #bd9b84;
+            margin-left: 10px;
+            margin-right: 45px;
+        }
+        .icons {
+            color: #bd9b84;
+            margin-right: 10px;
+        }
+        .recent-date,
+        .recent-comments {
+            margin-right: 45px;
+        }
+    }
+}

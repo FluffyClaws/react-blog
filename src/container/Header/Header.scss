@@ -1,0 +1,42 @@
+.app-bar {
+    background-color: green;
+}
+
+.app-bar-grey {
+    background-color: grey;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu_items {
+    margin-right: 20px;
+    color: black;
+    font-family: Manrope;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    .search-input {
+        background-color: #ffffff;
+        height: 50px;
+        padding: 10px 15px;
+        border: 1px solid #e4e4e4;
+        width: 76%;
+        border-radius: 25px;
+        font-size: 15px;
+        font-weight: 700;
+        outline: 0;
+        margin-right: 10px;
+    }
+
+    .search-input::placeholder {
+        font-weight: 500;
+    }
+}

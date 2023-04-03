@@ -1,0 +1,27 @@
+.social {
+    padding-top: 20px;
+    margin-left: 10px;
+    border: none;
+
+    .social-heading {
+        font-family: Syne;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 38px;
+        color: #000;
+    }
+}
+.facebook,
+.linkedin,
+.instagram,
+.twitter,
+.snapchat,
+.pinterest {
+    height: auto;
+    display: flex;
+    padding: 0 30px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    text-align: center;
+}

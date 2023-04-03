@@ -1,0 +1,26 @@
+.nav-active {
+    color: #bd9b84;
+}
+
+.nav-item {
+    color: black;
+}
+
+a.nav-item {
+    padding: 4px 0;
+}
+
+.nav-item,
+.nav-active {
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.MuiButtonBase-root {
+    padding: 0;
+    margin: 0;
+}
