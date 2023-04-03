@@ -1,0 +1,65 @@
+.recent {
+    margin-left: 10px;
+    margin-bottom: 30px;
+
+    .recent-heading {
+        font-family: Syne;
+        font-size: 30px;
+        font-weight: 700;
+        color: #000;
+    }
+
+    .recent-item-text {
+        margin-left: 30px;
+        .title2 a {
+            font-family: 'Syne', Sans-serif;
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 1.1em;
+            text-decoration: none;
+            color: #000;
+        }
+        .title2:hover a {
+            color: #bd9b84;
+        }
+    }
+    .recent-description {
+        color: #555555;
+        font-size: 16px;
+        line-height: 1.4em;
+        font-weight: 500;
+        font-family: Manrope;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+}
+
+.recent-item {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.recent-box {
+    width: 350px;
+    height: 350px;
+    img {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+    }
+}
+.recent-under-title {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: #797171;
+    .icons {
+        color: #bd9b84;
+        margin-right: 10px;
+    }
+    .date {
+        margin-right: 30px;
+    }
+}

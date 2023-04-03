@@ -1,0 +1,18 @@
+.container {
+    background-color: whitesmoke;
+    display: flex;
+    overflow: hidden;
+}
+
+.slider {
+    width: 300px;
+    margin: 0 20px;
+}
+
+.slide-right-enter {
+    transform: translateX(100%);
+}
+.slide-right-enter-active {
+    transform: translateX(0%);
+    transition: transform 1000ms ease-in-out;
+}

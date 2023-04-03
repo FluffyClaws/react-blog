@@ -1,0 +1,28 @@
+.label-category {
+    width: 100px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    text-align: center;
+    a {
+        text-decoration: none;
+        color: white;
+        font-size: 14px;
+        line-height: 35px;
+        font-weight: 500;
+        font-family: Manrope;
+    }
+}
+
+.label-category-health {
+    background-color: #00a2f9;
+}
+
+.label-category-fashion {
+    background-color: #fd2a42;
+}
+.label-category-lifestyle {
+    background-color: #00b875;
+}
+.label-category-travel {
+    background-color: #ffbc00;
+}

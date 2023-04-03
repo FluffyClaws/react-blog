@@ -1,0 +1,55 @@
+.most-read {
+    margin-left: 10px;
+    margin-bottom: 30px;
+
+    .most-read-heading {
+        font-family: Syne;
+        font-size: 30px;
+        font-weight: 700;
+        color: #000;
+    }
+    .most-read-item {
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+
+        .box {
+            width: 150px;
+            height: 150px;
+            img {
+                width: 150px;
+                height: 150px;
+                object-fit: cover;
+            }
+        }
+    }
+    .most-read-item-text {
+        margin-left: 30px;
+        .title2 a {
+            font-family: 'Syne', Sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1em;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #000;
+        }
+        .title2:hover a {
+            color: #bd9b84;
+        }
+    }
+    .under-title {
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+        color: #797171;
+        .icons {
+            color: #bd9b84;
+            margin-right: 10px;
+        }
+        .date {
+            margin-right: 30px;
+        }
+    }
+}
