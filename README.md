@@ -1,3 +1,6 @@
+# Deployed project can be found by the link below:
+https://magenta-profiterole-027e93.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
