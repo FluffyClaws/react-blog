@@ -14,7 +14,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.facebook.com/">
                             <img
-                                src="/images/facebook.svg"
+                                src="react-blog/images/facebook.svg"
                                 width="100%"
                                 alt="facebook"
                             />
@@ -23,7 +23,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.twitter.com/">
                             <img
-                                src="/images/twitter.svg"
+                                src="react-blog/images/twitter.svg"
                                 width="100%"
                                 alt="twitter"
                             />
@@ -32,7 +32,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.linkedin.com/">
                             <img
-                                src="/images/linkedin.svg"
+                                src="react-blog/images/linkedin.svg"
                                 width="100%"
                                 alt="linkedin"
                             />
@@ -41,7 +41,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.snapchat.com/">
                             <img
-                                src="/images/snapchat.svg"
+                                src="react-blog/images/snapchat.svg"
                                 width="100%"
                                 alt="snapchat"
                             />
@@ -50,7 +50,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.instagram.com/">
                             <img
-                                src="/images/instagram.svg"
+                                src="react-blog/images/instagram.svg"
                                 width="100%"
                                 alt="instagram"
                             />
@@ -59,7 +59,7 @@ const Social = (props: Props) => {
                     <Grid item xs={6}>
                         <a href="https://www.pinterest.com/">
                             <img
-                                src="/images/pinterest.svg"
+                                src="react-blog/images/pinterest.svg"
                                 width="100%"
                                 alt="pinterest"
                             />

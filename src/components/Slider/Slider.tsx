@@ -6,13 +6,13 @@ import './Slider.scss'
 type Props = {}
 
 const img = [
-    <img key="1" height="300px" src="/images/1s.webp" alt="" />,
-    <img key="2" height="300px" src="/images/2s.webp" alt="" />,
-    <img key="3" height="300px" src="/images/3s.webp" alt="" />,
-    <img key="4" height="300px" src="/images/4s.webp" alt="" />,
-    <img key="5" height="300px" src="/images/5s.webp" alt="" />,
-    <img key="6" height="300px" src="/images/6s.webp" alt="" />,
-    <img key="7" height="300px" src="/images/7s.webp" alt="" />,
+    <img key="1" height="300px" src="react-blog/images/1s.webp" alt="" />,
+    <img key="2" height="300px" src="react-blog/images/2s.webp" alt="" />,
+    <img key="3" height="300px" src="react-blog/images/3s.webp" alt="" />,
+    <img key="4" height="300px" src="react-blog/images/4s.webp" alt="" />,
+    <img key="5" height="300px" src="react-blog/images/5s.webp" alt="" />,
+    <img key="6" height="300px" src="react-blog/images/6s.webp" alt="" />,
+    <img key="7" height="300px" src="react-blog/images/7s.webp" alt="" />,
 ]
 
 const Slider = (props: Props) => {

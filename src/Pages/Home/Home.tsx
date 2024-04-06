@@ -41,22 +41,22 @@ const Home = () => {
                 className="mySwiper"
             >
                 <SwiperSlide>
-                    <img src="/images/1.webp" alt="slide-1" />
+                    <img src="react-blog//images/1.webp" alt="slide-1" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/images/2.webp" alt="slide-2" />
+                    <img src="react-blog//images/2.webp" alt="slide-2" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/images/3.webp" alt="slide-3" />
+                    <img src="react-blog//images/3.webp" alt="slide-3" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/images/4.webp" alt="slide-4" />
+                    <img src="react-blog//images/4.webp" alt="slide-4" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/images/5.webp" alt="slide-5" />
+                    <img src="react-blog//images/5.webp" alt="slide-5" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/images/6.webp" alt="slide-6" />
+                    <img src="react-blog//images/6.webp" alt="slide-6" />
                 </SwiperSlide>
             </Swiper>
             <Container maxWidth="xl" sx={{ padding: '50px 0' }}>

@@ -14,7 +14,7 @@ const SocialProfiles = (props: Props) => {
                 <div className="box">
                     <a href="https://www.facebook.com/">
                         <img
-                            src="/images/facebook.svg"
+                            src="react-blog/images/facebook.svg"
                             width="100%"
                             alt="facebook"
                         />
@@ -23,7 +23,7 @@ const SocialProfiles = (props: Props) => {
                 <div className="box">
                     <a href="https://www.instagram.com/">
                         <img
-                            src="/images/instagram.svg"
+                            src="react-blog/images/instagram.svg"
                             width="100%"
                             alt="instagram"
                         />
@@ -32,7 +32,7 @@ const SocialProfiles = (props: Props) => {
                 <div className="box">
                     <a href="https://www.twitter.com/">
                         <img
-                            src="/images/twitter.svg"
+                            src="react-blog/images/twitter.svg"
                             width="100%"
                             alt="twitter"
                         />
