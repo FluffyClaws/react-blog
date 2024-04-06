@@ -16,7 +16,7 @@ const AboutPage = (props: Props) => {
         <Container className="about" maxWidth="lg">
             <div className="title">About</div>
             <div className="about-box-img">
-                <img src="/images/about.jpg" alt="about" />
+                <img src="react-blog//images/about.jpg" alt="about" />
             </div>
             <h2 className="about-heading">Welcome to Alino</h2>
             <Grid container spacing={6}>
